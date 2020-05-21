@@ -1,4 +1,4 @@
-package cz.marbes.anonymizace.impl;
+package test;
 
 import org.apache.pdfbox.cos.COSName;
 import org.apache.pdfbox.pdmodel.PDDocument;
